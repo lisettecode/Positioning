@@ -1,0 +1,32 @@
+.caja {
+	background-color:#ee3e64;
+	width: 200px;
+	height: 200px;
+	position:absolute;
+	
+}
+body {
+margin: 0px;
+padding:0px;
+}
+.r {
+background-color:#ee3e64;
+left: 0px;
+top: 0px;
+
+}
+.b {
+	background-color:#44accf;
+	right: 0px;
+	top:0px;
+}
+.g {
+	background-color:#b7d84b;
+	left: 0px;
+	bottom: 0px;
+}
+.y {
+	background-color:yellow;
+	right: 0px;
+	bottom:0px;
+}

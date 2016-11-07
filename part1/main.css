@@ -1,0 +1,20 @@
+/* Inserta tu CSS aqui */
+.caja {
+	background-color:#ee3e64;
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.r {
+background-color:#ee3e64;
+}
+.b {
+	background-color:#44accf;
+}
+.g {
+	background-color:#b7d84b;
+}

@@ -1,0 +1,23 @@
+.caja {
+	background-color:#ee3e64;
+	width: 200px;
+	height: 200px;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.r {
+background-color:#ee3e64;
+}
+.b {
+	background-color:#44accf;
+	position: absolute;
+	left:200px;
+}
+.g {
+	background-color:#b7d84b;
+}
+.y {
+background-color:yellow;
+}/* Inserta tu CSS aqui */
